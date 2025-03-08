@@ -612,7 +612,7 @@ def main():
         
         with col1:
             st.markdown("""
-            <div style="text-align: center; padding: 1rem; border-radius: 0.5rem; background-color: #E3F2FD; height: 200px;">
+            <div style="text-align: center; padding: 1rem; border-radius: 0.5rem; background-color: #E3F2FD;">
                 <h3>Work with Any Dataset</h3>
                 <p>Upload any CSV file and the app will automatically analyze and process it.</p>
                 <p>✅ Automatic preprocessing</p>
@@ -622,7 +622,7 @@ def main():
             
         with col2:
             st.markdown("""
-            <div style="text-align: center; padding: 1rem; border-radius: 0.5rem; background-color: #E8F5E9; height: 200px;">
+            <div style="text-align: center; padding: 1rem; border-radius: 0.5rem; background-color: #E8F5E9;">
                 <h3>Train Multiple Models</h3>
                 <p>Train and compare multiple machine learning models with hyperparameter tuning.</p>
                 <p>✅ Classification & regression</p>
@@ -632,7 +632,7 @@ def main():
             
         with col3:
             st.markdown("""
-            <div style="text-align: center; padding: 1rem; border-radius: 0.5rem; background-color: #FFF8E1; height: 200px;">
+            <div style="text-align: center; padding: 1rem; border-radius: 0.5rem; background-color: #FFF8E1;">
                 <h3>Interactive Visualizations</h3>
                 <p>Explore your data and model performance with interactive visualizations.</p>
                 <p>✅ Feature importance</p>
