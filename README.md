@@ -1,1 +1,1 @@
-# Smart-ML-Model-Trainer-And-Predictor
+# Smart ML Model Trainer & Predictor
